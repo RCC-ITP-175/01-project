@@ -45,7 +45,7 @@ q
 
 
 #############################################################
-#    You are in the folder /course/week1 and need to move
+#    You are in the folder /course/week1 and need to change
 #    to the /course/week2 directory. How do you do that?
 #############################################################
 
